@@ -5,13 +5,13 @@ import org.junit.Test;
 /**
  * Unit test for simple App.
  */
-public class AppTest {
+public class AppIT {
 
     /**
      * Rigourous Test :-)
      */
     @Test
-    public void testForUnitTest() {
-        new App().forUnitTest();
+    public void testForITTest() {
+        new App().forITTest();
     }
 }
